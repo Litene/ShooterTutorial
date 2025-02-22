@@ -1,2 +1,2 @@
-# ShooterTutorial
-ShooterTutorial
+# FirstPersonShooterGame
+ FirstPersonTutorial
